@@ -36,3 +36,7 @@ Treat the local skill and the user's private GitHub `ats-resume-tailor/SKILL.md`
 ## Verification and applications
 
 Use the PDF workflow's create/edit marker and render the final PDF for visual QA before delivery. If the user asks to apply, complete preparation and upload only when authorized, stop for missing factual answers, login/verification challenges, and explicit confirmation immediately before the final submission.
+
+## Model routing
+
+Use a high-quality available model for job-description interpretation, resume tailoring, factual-boundary decisions, ATS/HR readability review, and final PDF QA. After the files, destinations, and upload scope are fixed, a lower-cost model may perform mechanical local filing, Google Drive mirroring, GitHub skill synchronization, and file-count or manifest verification. These lower-cost tasks must not alter resume or job-description content, decide what to upload, or expand scope; report any mismatch or ambiguity for higher-quality review or user direction.
