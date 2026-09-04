@@ -17,6 +17,8 @@ If `candidate-profile.md` does not exist, create a draft from [the profile templ
 
 Extract the role's core responsibilities, required technologies, and domain. Put verified matching keywords naturally in the summary, experience bullets, and skills. Present adjacent experience accurately when a requirement is missing; never present it as direct experience.
 
+Optimize for both ATS parsing and a human HR review. In a quick scan, make the target role, strongest relevant experience, measurable outcomes, and verified technical fit easy to find. Integrate keywords into natural, evidence-based language; never use keyword blocks, inflated claims, cramped typography, or dense unreadable bullets merely to improve ATS coverage.
+
 Keep a traditional single-column layout with parseable text and Times-style typography. Preserve the most relevant demonstrated achievements from the base resume; do not make the resume shorter merely to repeat generic keywords. Keep it to one page unless the user requests otherwise.
 
 Create `ZhiChun_Zhao_Tailored_Resume.pdf` (or the user-requested generic filename), `APPLICATION_NOTES.md`, and `JOB_DESCRIPTION.md` in `<candidate-folder>/work/<application-folder>/`. `JOB_DESCRIPTION.md` must preserve the posting title, employer, location, source URL, capture date, and complete description text used for tailoring. The notes must record ATS coverage and accuracy boundaries.
