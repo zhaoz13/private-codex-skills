@@ -13,6 +13,15 @@ Use only supported claims. Bill is a Full Stack Engineer at 3rdwave, a startup, 
 
 Do not claim direct professional experience with a technology or domain merely because the posting asks for it. Common unsupported examples include React, TypeScript, Angular, Spring Boot, Kotlin, Ruby/Rails, C#/.NET, Docker, Kubernetes, Terraform, Kafka, PostgreSQL specialization, fintech/banking, healthcare/FHIR, production LLM/agent systems, or daily professional Copilot/Claude usage. Codex use and document-AI integration can be described narrowly as AI exposure when relevant.
 
+## Default evidence sources
+
+At the start of every tailoring task, read both of these files from the configured `work` folder:
+
+- `blinco_3ww_contribution_portfolio.xlsx` - the contribution portfolio of Bill's commits. Use it as the primary evidence source when selecting and wording accomplishments from his current role.
+- `ZhiChun_Zhao_Full_Stack_Engineer_Resume (1).pdf` - the base resume. Use it for contact details, employment chronology, education, projects, and other established resume facts.
+
+Match the job description to specific, sufficiently contextualized portfolio entries before adding a current-role accomplishment. The portfolio supports what Bill delivered; the base resume supplies the broader career record. Do not infer a technology, impact, ownership level, or outcome from a commit title alone, and surface conflicts or incomplete evidence instead of inventing a claim. If either source file is unavailable, ask Bill to provide its location before representing new or expanded accomplishments externally.
+
 ## Tailoring
 
 Extract the role's core responsibilities, required technologies, and domain. Place matching verified keywords naturally in the summary, current-role experience bullets, and technical skills. Prioritize the closest demonstrated equivalents for gaps without presenting them as direct experience. Include a concise application README that records ATS coverage and accuracy boundaries.
