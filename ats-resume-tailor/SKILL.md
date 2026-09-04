@@ -19,13 +19,13 @@ Extract the role's core responsibilities, required technologies, and domain. Put
 
 Keep a traditional single-column layout with parseable text and Times-style typography. Preserve the most relevant demonstrated achievements from the base resume; do not make the resume shorter merely to repeat generic keywords. Keep it to one page unless the user requests otherwise.
 
-Create `ZhiChun_Zhao_Tailored_Resume.pdf` (or the user-requested generic filename) and `APPLICATION_NOTES.md` in `<candidate-folder>/work/<application-folder>/`. The notes must record ATS coverage and accuracy boundaries.
+Create `ZhiChun_Zhao_Tailored_Resume.pdf` (or the user-requested generic filename), `APPLICATION_NOTES.md`, and `JOB_DESCRIPTION.md` in `<candidate-folder>/work/<application-folder>/`. `JOB_DESCRIPTION.md` must preserve the posting title, employer, location, source URL, capture date, and complete description text used for tailoring. The notes must record ATS coverage and accuracy boundaries.
 
 ## Application archive
 
 Treat the local `<candidate-folder>/work/` as the primary work directory and the configured Google Drive `work/` folder as its backup mirror. Keep the skill itself in its private Git repository; do not store resumes, application answers, job descriptions, or other personal application data in that repository.
 
-When the user supplies or has previously approved the Drive `work/` root, create the same dated subfolder locally and in Drive for each application. The folder name should be `YYYY-MM-DD - Company - Role`; upload the tailored resume, application notes, and any user-approved supporting materials. Do not upload personal application data until the user has approved the specific Drive destination and file scope. Never remove or replace the local work copy after backup.
+When the user supplies or has previously approved the Drive `work/` root, create the same dated subfolder locally and in Drive for each application. The folder name should be `YYYY-MM-DD - Company - Role`; upload the tailored resume, application notes, job description, and any user-approved supporting materials. Do not upload personal application data until the user has approved the specific Drive destination and file scope. Never remove or replace the local work copy after backup. Do not reconstruct a historical job description unless its source URL or original content is available.
 
 ## Verification and applications
 
