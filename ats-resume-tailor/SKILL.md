@@ -15,12 +15,20 @@ Do not claim direct professional experience with a technology or domain merely b
 
 ## Default evidence sources
 
-At the start of every tailoring task, read both of these files from the configured `work` folder:
+Treat both of these files in the configured `work` folder as the authoritative evidence sources. Read them in full when initializing or refreshing the evidence memory; otherwise, use the memory-first verification flow below:
 
 - `blinco_3ww_contribution_portfolio.xlsx` - the contribution portfolio of Bill's commits. Use it as the primary evidence source when selecting and wording accomplishments from his current role.
 - `ZhiChun_Zhao_Full_Stack_Engineer_Resume (1).pdf` - the base resume. Use it for contact details, employment chronology, education, projects, and other established resume facts.
 
 Match the job description to specific, sufficiently contextualized portfolio entries before adding a current-role accomplishment. The portfolio supports what Bill delivered; the base resume supplies the broader career record. Do not infer a technology, impact, ownership level, or outcome from a commit title alone, and surface conflicts or incomplete evidence instead of inventing a claim. If either source file is unavailable, ask Bill to provide its location before representing new or expanded accomplishments externally.
+
+## Memory and efficient context use
+
+Maintain a private, compact evidence index at `/Users/zhaobill/Desktop/work/ATS_MEMORY.md`, and mirror it to the configured Google Drive `work/` folder. It is working memory, never the sole source of truth: it must identify each achievement card's supporting workbook sheet/row or base-resume section, and it must be refreshed when either default evidence source changes.
+
+On the first tailoring task, or when the memory is missing or stale, build or refresh it after reviewing the default evidence sources. Keep only durable, verified information: canonical contact and chronology facts; a concise index of current-role accomplishment cards with technologies, scope, outcome, and source reference; reusable preferences; and pointers to past application folders. Do not duplicate full job descriptions, complete resumes, or the entire workbook.
+
+For later tailoring tasks, read the memory first, select the relevant accomplishment cards from the job description, then open only the corresponding source rows or resume sections to verify the claims used. Re-read the full source only when the cache is stale, relevant evidence is absent or ambiguous, the job materially changes the needed domain, or a claim conflicts with a source. Never use memory to create, extend, or “remember” an unsupported achievement. Do not upload this personal memory file to the GitHub skill repository.
 
 ## Tailoring
 
