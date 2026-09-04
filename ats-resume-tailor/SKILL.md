@@ -25,7 +25,11 @@ Create `ZhiChun_Zhao_Tailored_Resume.pdf` (or the user-requested generic filenam
 
 Treat the local `<candidate-folder>/work/` as the primary work directory and the configured Google Drive `work/` folder as its backup mirror. Keep the skill itself in its private Git repository; do not store resumes, application answers, job descriptions, or other personal application data in that repository.
 
-When the user supplies or has previously approved the Drive `work/` root, create the same dated subfolder locally and in Drive for each application. The folder name should be `YYYY-MM-DD - Company - Role`; upload the tailored resume, application notes, job description, and any user-approved supporting materials. Do not upload personal application data until the user has approved the specific Drive destination and file scope. Never remove or replace the local work copy after backup. Do not reconstruct a historical job description unless its source URL or original content is available.
+When the user supplies or has previously approved the Drive `work/` root, create the same dated subfolder locally and in Drive for each application. The folder name should be `YYYY-MM-DD - Company - Role`; upload the tailored resume, application notes, job description, and any user-approved supporting materials. Approval of that Drive root is standing approval for this same application-archive scope, so do not request confirmation for each routine backup. Request approval only for a new destination or materially broader file scope. Never remove or replace the local work copy after backup. Do not reconstruct a historical job description unless its source URL or original content is available.
+
+## Skill maintenance and distribution
+
+Treat the local skill and the user's private GitHub `ats-resume-tailor/SKILL.md` as synchronized copies. Whenever a reusable rule, resource, or workflow changes, update the corresponding GitHub skill files in the same task without requesting a separate confirmation. Keep only reusable skill instructions and non-personal templates in that repository; never sync application archives or other personal job materials there.
 
 ## Verification and applications
 
