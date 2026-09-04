@@ -21,6 +21,12 @@ Keep a traditional single-column layout with parseable text and Times-style typo
 
 Create `ZhiChun_Zhao_Tailored_Resume.pdf` (or the user-requested generic filename) and `APPLICATION_NOTES.md` in `<candidate-folder>/output/`. The notes must record ATS coverage and accuracy boundaries.
 
+## Application archive
+
+Treat the configured Google Drive folder as the long-term archive for application materials. Keep the skill itself in its private Git repository; do not store resumes, application answers, job descriptions, or other personal application data in that repository.
+
+When the user supplies or has previously approved a Google Drive archive root, create one dated subfolder per application and upload the tailored resume, application notes, and any user-approved supporting materials. The folder name should be `YYYY-MM-DD - Company - Role`. Do not upload personal application data until the user has approved the specific Drive destination and file scope. Preserve the local output folder as the working copy.
+
 ## Verification and applications
 
 Use the PDF workflow's create/edit marker and render the final PDF for visual QA before delivery. If the user asks to apply, complete preparation and upload only when authorized, stop for missing factual answers, login/verification challenges, and explicit confirmation immediately before the final submission.
